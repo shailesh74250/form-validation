@@ -1,0 +1,14 @@
+1. always remember eventListener going to be add on form id not on submit button
+
+2. what to access error element one by one and perform some action then use 
+forEach(function(){})
+instead of using for loop use forEach
+
+3. keyup event listener added 
+
+4. submit elvent listener 
+
+5. same logic we can apply in many project client side validation in reactjs, normal javascript project or all 
+web projects web can apply
+
+6. import font in css file from fonts.google.com website 
